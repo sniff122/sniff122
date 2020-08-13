@@ -2,13 +2,13 @@
 
 ### Social Media
 
- - ![Discord](discord.png) sniff122#6218
- - ![Twitter](twitter.png) sniff122
- - ![Twitter](twitter.png) sniff122N
- - ![Twitter](twitter.png) sniffbotdiscord
- - ![Twitter](twitter.png) someonebot1
- - ![Telegram](telegram.png) sniff122
- - ![Keybase](keybase.png) sniff122
+ - Discord - sniff122#6218
+ - Twitter - sniff122
+ - Twitter - sniff122N
+ - Twitter - sniffbotdiscord
+ - Twitter - someonebot1
+ - Telegram - sniff122
+ - Keybase - sniff122
  
  ### Main Projects
  - [sniff122Development/ImageUploader](https://github.com/sniff122Development/ImageUploader)
