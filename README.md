@@ -1,5 +1,7 @@
 # Lewis L. Foster
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P832VBY)
+
 ### Social Media
 
  - Discord - sniff122#6218
