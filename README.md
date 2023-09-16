@@ -4,7 +4,7 @@
 
 ### About
 
-I am a 19 year old furry who has a passion for software development, networking and photography. My main project is [ServerProtector](https://serverprotector.me), what is a Discord bot what helps identify troublesome members in a guild.
+I am a 20 year old furry who has a passion for software development, networking and photography. My main project is [ServerProtector](https://serverprotector.me), what is a Discord bot what helps identify troublesome members in a guild.
 
 
 ### Social Media
