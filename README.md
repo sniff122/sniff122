@@ -1,10 +1,10 @@
-# Lewis L. Foster
+# Lewis Foster
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P832VBY)
 
 ### About
 
-I am a 21 year old who has a passion for devops, software development, networking and photography.
+I am a 22 year old who has a passion for devops, software development, networking and photography.
 
 
 ### Social Media
